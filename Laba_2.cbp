@@ -32,6 +32,19 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Array.cpp" />
+		<Unit filename="Array.h" />
+		<Unit filename="BinarySearchTree.cpp" />
+		<Unit filename="BinarySearchTree.h" />
+		<Unit filename="HashTable.cpp" />
+		<Unit filename="HashTable.h" />
+		<Unit filename="OList.cpp" />
+		<Unit filename="OList.h" />
+		<Unit filename="Set.cpp" />
+		<Unit filename="Set.h" />
+		<Unit filename="Stack.cpp" />
+		<Unit filename="Stack.h" />
+		<Unit filename="libs.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1728804927 source:/home/golimghost/Desktop/CProj/Laba_2/BinarySearchTree.cpp
+	"BinarySearchTree.h"
+
+1728804483 /home/golimghost/Desktop/CProj/Laba_2/BinarySearchTree.h
+	"libs.h"
+
+1728800998 /home/golimghost/Desktop/CProj/Laba_2/libs.h
+	<iostream>
+
+1728896139 source:/home/golimghost/Desktop/CProj/Laba_2/Array.cpp
+	"Array.h"
+	"math.h"
+
+1728895218 /home/golimghost/Desktop/CProj/Laba_2/Array.h
+	"libs.h"
+	"OList.h"
+
+1728804116 /home/golimghost/Desktop/CProj/Laba_2/OList.h
+	"libs.h"
+
+1728897364 source:/home/golimghost/Desktop/CProj/Laba_2/HashTable.cpp
+	"HashTable.h"
+
+1728804109 /home/golimghost/Desktop/CProj/Laba_2/HashTable.h
+	"libs.h"
+	"OList.h"
+	"Array.h"
+
+1728879523 source:/home/golimghost/Desktop/CProj/Laba_2/OList.cpp
+	"OList.h"
+
+1728893910 source:/home/golimghost/Desktop/CProj/Laba_2/Stack.cpp
+	"Stack.h"
+
+1728893651 /home/golimghost/Desktop/CProj/Laba_2/Stack.h
+	"libs.h"
+	"OList.h"
+
+1728899099 source:/home/golimghost/Desktop/CProj/Laba_2/main.cpp
+	"libs.h"
+	"Array.h"
+	"OList.h"
+	"BinarySearchTree.h"
+	"Stack.h"
+	"HashTable.h"
+	"Set.h"
+	<cctype>
+
+1728879492 /home/golimghost/Desktop/CProj/Laba_2/Set.h
+	"libs.h"
+	"OList.h"
+
+1728880312 source:/home/golimghost/Desktop/CProj/Laba_2/Set.cpp
+	"Set.h"
+
